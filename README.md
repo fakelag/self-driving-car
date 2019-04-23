@@ -2,7 +2,7 @@
 
 Self driving car with steering angle prediction using a deep neural network
 
-## CNN Layout
+## CNN layout
 | Layer (type) | Output Shape | Param #  |
 | ------------- | ------------- | ------------- |
 | conv2d_1 (Conv2D) | (None, 31, 98, 24) | 1824 |
@@ -18,6 +18,9 @@ Self driving car with steering angle prediction using a deep neural network
 
 ## Learning loss with current training data
 ![Learning loss](https://raw.githubusercontent.com/fakelag/self-driving-car/master/img/l1.PNG)
+
+## Training data distribution
+![Data distribution](https://raw.githubusercontent.com/fakelag/self-driving-car/master/img/sets.PNG)
 
 ## Simulator used
 https://github.com/udacity/self-driving-car-sim
