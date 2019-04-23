@@ -1,0 +1,6 @@
+track/*
+track_old/*
+__pycache__/*
+
+*.h5
+.pylintrc
