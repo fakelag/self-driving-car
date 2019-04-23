@@ -17,7 +17,7 @@ Self driving car with steering angle prediction using a deep neural network
 | dense_4 (Dense) | (None, 1) | 11 |
 
 ## Learning loss with current training data
-![Learning loss](./img/l1.png)
+![Learning loss](https://raw.githubusercontent.com/fakelag/self-driving-car/master/img/l1.PNG)
 
 ## Simulator used
 https://github.com/udacity/self-driving-car-sim
